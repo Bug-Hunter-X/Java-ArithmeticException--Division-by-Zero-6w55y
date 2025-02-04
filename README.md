@@ -1,0 +1,1 @@
+This repository contains a simple Java program that demonstrates an ArithmeticException caused by division by zero. The `bug.java` file contains the buggy code, while `bugSolution.java` provides a corrected version with proper error handling.
